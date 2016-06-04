@@ -1,0 +1,173 @@
+li{
+  position: fixed;
+  margin: 300px auto;
+  list-style-type: none;
+  top: 0; 
+  left: 0; 
+  bottom: 0; 
+  right: 0;
+  box-shadow: 5px 3px 30px #52D29F;
+}
+.test{
+  width: 250px;
+  height: 150px;
+  background-color: #79E8C1;
+  
+  z-index: 4
+}
+ .test1{
+  width: 240px;
+  height: 150px;
+  margin-top: 260px;
+  background-color: #79E8C1;
+  
+  z-index: 3
+ }
+ .test2{
+  width: 230px;
+  height: 150px;
+  margin-top: 230px;
+  background-color: #79E8C1;
+  
+  z-index: 2
+ }
+ .test3{
+  width: 220px;
+  height: 150px;
+  margin-top: 200px;
+  background-color: #79E8C1;
+  
+  z-index: 1
+ }
+ .test4{
+  width: 240px;
+  height: 150px;
+  margin-top: 340px;
+  background-color: #79E8C1;
+  
+  z-index: 3
+ }
+ .test5{
+  width: 230px;
+  height: 150px;
+  margin-top: 370px;
+  background-color: #79E8C1;
+  
+  z-index: 2
+}
+  .test6{
+  width: 220px;
+  height: 150px;
+  margin-top: 400px;
+  background-color: #79E8C1;
+  
+  z-index: 1
+ }
+
+
+
+
+
+
+
+
+
+
+
+/*ul li{list-style: none;transition: all 0.2s}
+.main{
+  position: relative;
+  left: 100px;
+}
+.none{display:none;}
+.page1{
+  height: 170px;
+  background-color:   #4da3ff;
+  box-shadow: 0px 0px 15px #8080ff;;
+  border-radius: 1%;
+  position:absolute;
+  top: 0px;
+  width:220px;
+  left:60px;
+  z-index:2;
+  opacity: 0.6;
+}
+.page2{
+  height: 170px;
+  background-color:   #4da3ff;
+  box-shadow: 0px 0px 15px #8080ff;
+  border-radius: 1%;
+  position:absolute;
+  top: 20px;
+  width:260px;
+  left:40px;
+  z-index:3;
+}
+.active{
+  height: 170px;
+  background-color:   #3396ff;
+  box-shadow: 0px 0px 15px #8080ff;;
+  border-radius: 1%;
+  position:absolute;
+  top: 40px;
+  width:320px;
+  left:10px;
+  z-index:4;
+}
+.page4{
+  height: 170px;
+  background-color:  #4da3ff;
+  box-shadow: 0px 0px 15px #8080ff;;
+  border-radius: 1%;
+  position:absolute;
+  top: 60px;
+  width:260px;
+  left:30px;
+  z-index:1;
+}
+.page5{
+  height: 170px;
+  background-color:  #4da3ff;
+  box-shadow: 0px 0px 15px #8080ff;;
+  border-radius: 1%;
+  position:absolute;
+  top: 80px;
+  width:220px;
+  left:60px;
+  z-index:0;
+  opacity: 0.6;
+}
+.clsBottom
+{
+  width:100%;
+  height: 40px;
+  background-color: #007bff;
+  border-radius: 4%;
+  position: absolute;
+  bottom: 0px;
+}
+#myBottomBtn
+{position: absolute;left:80px;top:270px;}
+#myTopBtn
+{position: absolute;left:170px;top:270px;}
+*/
+/*.main li{
+  margin: 200px auto;
+  
+}
+li{
+  text-decoration: none;
+  position: absolute;
+  width: 300px;
+  top: 0; 
+  left: 0; 
+  bottom: 0; 
+  right: 0;
+  height: 200px;
+  background-color: red;
+  border:1px solid black;
+  list-style-type: none;
+
+}*/
+
+
